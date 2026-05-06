@@ -34,7 +34,7 @@ h1, h2 {
 }
 .body-style-index {
  background-color: rgb(252, 252, 252);
- font-family: Georgia, serif;
+ font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .body-style-index ul {
     list-style: none;
