@@ -92,7 +92,7 @@ h1, h2, p {
 }
 
 body.historia-de-rossano {
-    background-color: #4e4e4e;
+    background-color: #131212;
     color: #ffffff;
     font-family: Georgia, "Times New Roman", serif;
     line-height: 1.8;
@@ -130,7 +130,7 @@ body.historia-de-rossano {
 }
 
 .historia-de-rossano a:hover {
-    color: #41403f;
+    color: #535353;
 }
 
 .historia-de-rossano img {
