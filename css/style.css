@@ -145,3 +145,23 @@ body.historia-de-rossano {
     margin: 30px;
     font-size: 20px;
 }
+
+.historia-de-rossano .imagen-historica {
+    max-width: 850px;
+    margin: 45px auto;
+    text-align: center;
+}
+
+.historia-de-rossano .imagen-historica img {
+    width: 100%;
+    height: auto;
+    border-radius: 16px;
+    box-shadow: 0 10px 28px rgba(0,0,0,0.45);
+}
+
+.historia-de-rossano .imagen-historica figcaption {
+    margin-top: 12px;
+    font-size: 15px;
+    color: #d6c4a5;
+    font-style: italic;
+}
