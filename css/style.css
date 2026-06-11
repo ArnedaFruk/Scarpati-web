@@ -155,7 +155,7 @@ body.historia-de-rossano {
 .historia-de-rossano .imagen-historica img {
     width: 100%;
     height: auto;
-    border-radius: 16px;
+    border-radius: 40px;
     box-shadow: 0 10px 28px rgba(0,0,0,0.45);
 }
 
